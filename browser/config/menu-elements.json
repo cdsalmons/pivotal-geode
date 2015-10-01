@@ -1,15 +1,13 @@
 {
 	"menu":{
 		"scm": [
-		    "companies",
-		    "companies-summary",
+		    "organizations",
 		    "contributors",
 		    "domains",
 		    "repos"
 		],
 		"mls": [
-		    "companies",
-		    "companies-summary",
+		    "organizations",
 		    "contributors",
 		    "domains",
 		    "repos"
@@ -21,8 +19,7 @@
 		    "demographics"
 		],
 		"its": [
-		    "companies",
-		    "companies-summary",
+		    "organizations",
 		    "contributors",
 		    "domains",
 		    "repos"
