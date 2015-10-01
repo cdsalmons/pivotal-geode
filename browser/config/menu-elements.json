@@ -1,15 +1,16 @@
 {
 	"menu":{
 		"scm": [
-		    "organizations",
 		    "contributors",
 		    "domains",
+			"organizations",
 		    "repos"
 		],
 		"mls": [
 		    "organizations",
 		    "contributors",
 		    "domains",
+			"organizations",
 		    "repos"
 		],
 		"qaforums": [
@@ -19,9 +20,9 @@
 		    "demographics"
 		],
 		"its": [
-		    "organizations",
 		    "contributors",
 		    "domains",
+			"organizations",
 		    "repos"
 		],
 		"meetup": [
