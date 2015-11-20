@@ -6,6 +6,9 @@
 			"organizations",
 		    "repos"
 		],
+		"scr": [
+			"repos"
+		],
 		"mls": [
 		    "contributors",
 		    "domains",
@@ -28,7 +31,8 @@
             "next_meetings",
 		    "past_meetings"
 		],
-        "confluence": []
+        "confluence": [],
+		"dockerhub": []
 	},
 	"releases":[],
 	"threads_site":"https://groups.google.com/"
