@@ -31,8 +31,7 @@
             "next_meetings",
 		    "past_meetings"
 		],
-        "confluence": [],
-		"dockerhub": []
+        "confluence": []
 	},
 	"releases":[],
 	"threads_site":"https://groups.google.com/"
